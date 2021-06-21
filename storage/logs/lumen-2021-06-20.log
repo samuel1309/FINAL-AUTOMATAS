@@ -1,0 +1,7 @@
+[2021-06-20 01:11:49] local.ERROR: syntax error, unexpected ''Anastasio Mendoza Erick'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' {"exception":"[object] (ParseError(code: 0): syntax error, unexpected ''Anastasio Mendoza Erick'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' at C:\\Users\\Usuario\\OneDrive\\Documentos\\OCTAVO SEMESTRE\\blog\outes\\web.php:19)
+[stacktrace]
+#0 C:\\Users\\Usuario\\OneDrive\\Documentos\\OCTAVO SEMESTRE\\blog\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#1 C:\\Users\\Usuario\\OneDrive\\Documentos\\OCTAVO SEMESTRE\\blog\\bootstrap\\app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#2 C:\\Users\\Usuario\\OneDrive\\Documentos\\OCTAVO SEMESTRE\\blog\\public\\index.php(14): require('C:\\\\Users\\\\Usuari...')
+#3 {main}
+"} 
